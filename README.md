@@ -1,4 +1,4 @@
-# CentrAlign Autonomous AI Worker (proof of concept)
+# Autonomous AI Worker 
 
 A small, readable agent that takes a **natural-language task**, asks an LLM to **plan** it as structured JSON,
 **executes** the plan in a real browser with Playwright, **observes** every result, **recovers** from failures,
